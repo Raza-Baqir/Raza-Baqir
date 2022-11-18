@@ -7,6 +7,7 @@
 - 💬 Ask me about Programming and Tech related stuff.
 - 📫 How to reach me: [Twitter](https://twitter.com/RazaBaqir_5) , 
 [Instagram](https://www.instagram.com/raza.baqir5/) , 
-[LinkedIn](https://www.linkedin.com/in/raza-baqir-5106a4241/)
+[LinkedIn](https://www.linkedin.com/in/raza-baqir-5106a4241/) ,
+[Snapchat](https://www.snapchat.com/add/raza_baqir5?share_id=IP9RDGNdDFg&locale=en-PK)
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: Like fingerprints, everyone's tongue print is different.
