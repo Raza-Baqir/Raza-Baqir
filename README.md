@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently doing Software Engineering From FAST NUCES.
 - 🌱 I’m currently learning Flutter.
-- 👯 I’m looking to collaborate on Instagram.
 - 🤔 I’m looking for help with Data Science.
 - 💬 Ask me about Programming and Tech related stuff.
 - 📫 How to reach me: [Twitter](https://twitter.com/RazaBaqir_5) , 
