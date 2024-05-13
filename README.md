@@ -1,7 +1,7 @@
 ### Hi Helo I'm Ramzan Ali 👋
 
 - 🔭 I’m currently doing Software Engineering From FAST NUCES.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning MERN.
 - 🤔 I’m looking for help with Data Science.
 - 👯 I’m looking to collaborate on Instagram.
 - 💬 Ask me about Programming and Tech related stuff.
