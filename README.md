@@ -1,8 +1,7 @@
 ### Hi Hello I'm Ramzan Ali 👋
 
-- 🔭 I’m currently doing Software Engineering At FAST NUCES.
-- 🌱 I’m currently learning MERN.
-- 🤔 I’m looking for help with Data Science.
+- 🔭 I’m currently doing Intern at Expert System Solution.
+- 🌱 I’m currently learning ML.
 - 👯 I’m looking to collaborate on Instagram.
 - 💬 Ask me about Programming and Tech related stuff.
 - 📫 How to reach me: [Twitter](https://twitter.com/RazaBaqir_5), 
